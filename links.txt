@@ -1,0 +1,7 @@
+Confluence:
+https://vhihealthcare.atlassian.net/wiki/spaces/MA/overview
+https://vhihealthcare.atlassian.net/wiki/spaces/MA/pages/605585431/TBC+all+details+-+Medical+ID+screen
+
+Jenkins:
+https://vmsys670.vhihealthcare.net/job/MOBILE_APP_ANDROID_build_CI/
+https://vmsys670.vhihealthcare.net/job/MOBILE_APP_ANDROID_build_CI/17167/
