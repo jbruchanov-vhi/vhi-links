@@ -5,3 +5,9 @@ https://vhihealthcare.atlassian.net/wiki/spaces/MA/pages/605585431/TBC+all+detai
 Jenkins:
 https://vmsys670.vhihealthcare.net/job/MOBILE_APP_ANDROID_build_CI/
 https://vmsys670.vhihealthcare.net/job/MOBILE_APP_ANDROID_build_CI/17167/
+
+https://vmsys670.vhihealthcare.net/view/MOBILE_APP/view/ANDROID/job/MOBILE_APP_ANDROID_build_CI/github-pullrequest/
+
+Select GitHub PR on the navigation bar on the left-hand side.
+Search for your PR number from Github (like #3799) and select ‘Build’ to manually start a new build :slightly_smiling_face:
+gimme a shout if you can’t access it. (edited)
