@@ -20,3 +20,6 @@ https://vhihealthcare.atlassian.net/wiki/spaces/MA/pages/583172139/TR+-+My+polic
 
 
 https://vhihealthcare.atlassian.net/browse/MOBAPP-252
+
+
+https://almoctane-eur.saas.microfocus.com/ui/entity-navigation?&p=95027/2001&entityType=bdd_spec&id=35015
