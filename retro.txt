@@ -1,3 +1,10 @@
+- jira in citrix is just super pain
+  - no clipboard
+  - preview of attached stuff is shit
+  - uploading video crashlog is just, OMG!
+  - citrix is stubborn last 2 days
+  
+  
 - PR reviews
   - squashing shouldn't be happening for addressing comments => can't see just the addressing update
   - convos should be resolved to see what's in progress of convo/addressing by the author of comment,
@@ -9,11 +16,6 @@
 
 - bugs written in hard to follow way (324074, it expects me to know the app/usecase well)
 - analytics, sometimes confusing specs (c&p issues?)
-
-- jira in citrix is just super pain
-  - no clipboard
-  - preview of attached stuff is shit
-  - uploading video crashlog is just, OMG!
   
 ? - multiple loadings in VM is bad imo
   - changing visibility of multiple buttons is just bad UX/a11y 
