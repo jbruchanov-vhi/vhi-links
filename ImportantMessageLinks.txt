@@ -73,3 +73,15 @@ Back to the New App Dashboard FR - Dashboard
 N/A
 
 Unmapped URL - opened in the in-app browser
+
+
+----
+Dietician - args
+HealthCoach - unfinished yet
+EapSupportView (MentalHealthEap) - args
+ConsumerSupportView (MentalHealthConsumer) - args
+LoadingView (OnlineDoctor) - args ? destination ?
+PaediatricClinicDetailView - args ?
+PhysioDetailsVie0 (Physio) - args
+SpeechAndLanguageView - args
+switfcare loading - not merged yet
