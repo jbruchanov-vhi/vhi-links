@@ -1,0 +1,75 @@
+https://api.vhi.ie/app/onlinedoctor/
+
+Online Doctor Loading screen FR - Online Doctor Launch Loading
+
+https://api.vhi.ie/app/symptomchecker/
+
+Symptom Checker Home screen FR - Symptom Checker Home Screen
+
+https://api.vhi.ie/app/supportchat/
+
+Am I Covered Home screen FR - Am I Covered Chat home screen - Without History
+
+https://api.vhi.ie/app/parkrun/
+
+parkrun Loading FR - Parkrun Loading
+
+https://api.vhi.ie/app/snapsend/
+
+Snap & Send Home screen FR - Snap & Send Home screen
+
+https://api.vhi.ie/app/mentalhealth/eap/
+
+Mental Health EAP FR - EAP Mental Health Support screen
+
+https://api.vhi.ie/app/mentalhealth/
+
+Mental Health Consumer  FR - Mental Health Consumer Support screen
+
+https://api.vhi.ie/app/physio/
+
+Physio Details screen FR - Physio Details screen
+
+https://api.vhi.ie/app/dietician/
+
+Dietician Details screen FR - Dietician Details screen
+
+https://api.vhi.ie/app/speechlanguage/
+
+Speech & Language screen FR - Speech & Language Details screen
+
+https://api.vhi.ie/app/screening/
+
+Health Screening Details screen FR - Health screening details screen
+
+https://api.vhi.ie/app/nurseline/
+
+Nurseline Details screen FR - Nurseline Details screen
+
+https://api.vhi.ie/app/midwife/
+
+One to One Midwife FR - One to One Midwife screen 
+
+https://api.vhi.ie/app/midwife/enhanced/
+
+Enhanced Midwife Loading screen FR - Enhanced Midwife Loading 
+
+https://api.vhi.ie/app/swiftcare/
+
+Swiftcare Loading screen FR - Swiftcare Loading
+
+https://api.vhi.ie/app/paediatrician/
+
+Paediatrician Clinic Details screen FR - Paediatric Clinic Details Screen
+
+https://api.vhi.ie/app/healthcoach/
+
+Health Coach Loading screen FR - Health Coach Loading
+
+https://api.vhi.ie/app/dashboard/
+
+Back to the New App Dashboard FR - Dashboard
+
+N/A
+
+Unmapped URL - opened in the in-app browser
