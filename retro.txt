@@ -1,3 +1,21 @@
++ spectrum refactoring/cleanup
+
+- confusing specs, different keywords/names for same thing (health coach <=> wellbeing, etc)
+- tickets without BDD tests
+- ticket(s) being blocked if some other feature as another navigation origin not implemented
+  - scaffolding worked
+  - should've raised an issue to scaffold screen for the navigation  
+- unclear PR flow 
+  - story (unprotected) => subtask doesn't need 2 approvals
+  - should be story PR just blind ? => - which PR is the for the review ?
+
+- can we update the PR template to use JIRA link ?
+  - automatic link via branch name ?
+- clean/turn off warnings, very hard to see what's the issue if the log is polluted by warnings 
+
+- what's difference between jira ticket state PRCreated/InReview ?
+
+-------------------------------------------
 - jira in citrix is just super pain
   - no clipboard
   - preview of attached stuff is shit
