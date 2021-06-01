@@ -1,0 +1,54 @@
+{
+	"info": {
+		"_postman_id": "1ea9f6f6-b530-41d4-9dca-5d76ece4f1f6",
+		"name": "Push notifications (bypass EI)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Working push notification",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": " key=AAAA08K8V8c:APA91bFC2QxzyJ-IM0z3aRi4cu-XlJnhNmabpDzbCVQdPtdtwcoUIB7CeIjie5l0KRGnFbC_Sk8xsGDteAOIuQuzJAY6qgZ15BkiZ6vUSyaphRTJN-xtkszYgg9YxFg1E50zY98x2Lfn",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"to\": \"evBNhl4iS7GG33eBTjPS29:APA91bFlSskonBNkJ2mQgCIUnoUDCABxbm_qkJlWjbYfHgzeSFRc31E21RwV5x0w41T0OxSWJrZuljhfREsfAFBmBtHKAt8kgzA9yK0WhVHmTKzfuLz9GSDkqbKtNr0p_oDASw2qK4a5\",\r\n  \"notification\":{\r\n    \"title\":\"Doctor Ready\",\r\n    \"body\":\" Please find a quite place and click to join your appointment\",\r\n    \"badge\":\"1\",\r\n    \"sound\":\"chime\"\r\n    },\r\n    \"data\" : {\r\n       \"notificationId\":\"onlinedoctor001\",\r\n        \"callTicketId\":\"3745\",\r\n        \"dependentPartnerId\":\"7663590\"\r\n        }\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fcm.googleapis.com/fcm/send",
+					"protocol": "https",
+					"host": [
+						"fcm",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"fcm",
+						"send"
+					]
+				},
+				"description": "This is how you can push a notification"
+			},
+			"response": []
+		}
+	]
+}
