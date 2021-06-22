@@ -1,3 +1,24 @@
+2021-06-22:
+
+What didn't go well
+- testing of stories for the maintenance dialog
+  - TicketA/StoryA failed because of missing stuff from TicketB
+  - TicketB/StoryB blocked because TicketA can't finish
+
+- few bugs created with testing strange build numbers due to overlaping test cases
+  
+- communitacing with QA is hard, 
+  - they say half story because they expect mind reading
+
+- PRs are way too poluted by formatting and unimportant stuff (format etc)
+
+- Parkrun, too many bugs which looked like it wasn't implemented at all
+
+- way too many bugs related to changing a word in texts etc
+
+- leak canary is just super annoying
+
+-----------------------------------
 + spectrum refactoring/cleanup
 
 - confusing specs, different keywords/names for same thing (health coach <=> wellbeing, etc)
