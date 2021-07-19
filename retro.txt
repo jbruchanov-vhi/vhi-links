@@ -1,3 +1,23 @@
+2021-07-19:
+
+What went well
+- started compose POC
+- techdebts
+
+Didn't go well
+- compose is just massive pain now AS/rc02
+
+What we are going to improve
+- MVI broken UI states (S&S)
+  - Loaded -> triggers validation
+  - Validated 
+  (execution/order dependency)
+
+What needs to be improved
+- "backend"/login down for whole week 
+
+-------------------
+
 2021-06-22:
 
 What didn't go well
