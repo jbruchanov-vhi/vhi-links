@@ -1,0 +1,25 @@
+Title: “Children under two”
+
+Copy: “Our Online Doctor services is not suitable for children under two years of age, in keeping with telemedicine guidelines. If the medical issue is an emergency contact the emergency services at 112 or your local emergency services number. If the medical issue is not urgent, you should make an appointment to see your usual GP during normal clinic hours. If you need to see a GP outside their clinic hours, you can contact your local GP out of hours service or alternatively the Nurseline 24/7 is available for day to day health queries.”
+
+ 
+
+Button: “Call 112 Emergency Services” <arrow>
+
+Selecting this button will​​​ launch the dialer on Android and display the call bottom sheet on iOS asking the user to confirm whether or not they want to call the number (with a button to cancel or call)
+
+Refer to the design for styling per platform
+
+
+Button: “Nurseline 24/7” <arrow>
+
+Selecting this button will navigate the user to the Nurseline screen
+
+Refer to the design for styling per platform
+
+If the user doesn’t have eligibility for Nurseline, then hide the button
+
+
+Title: “Children aged 2 - 15”
+
+Copy: “Bookings for children aged 2 - 15 can be made by an adult on the policy. The medical record of consultations for children aged 2 - 15 are only eligible to view by the parent and legal guardian on the policy.”
