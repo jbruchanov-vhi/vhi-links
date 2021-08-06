@@ -26,3 +26,5 @@ https://almoctane-eur.saas.microfocus.com/ui/entity-navigation?&p=95027/2001&ent
 
 
 https://vhi-mobileapp.slack.com/archives/CESPWCA3D/p1624544058300100
+
+https://vmsys503.vhihealthcare.net:8802/OnlineDoctorService/swagger-ui.html#/eligibilities-v-3-controller/getEligibilitiesDetailsUsingGET_1
