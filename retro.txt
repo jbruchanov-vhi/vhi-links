@@ -1,3 +1,18 @@
+2021-08-16:
+Didn't go well
+- docs/reqs/specs are hard to follow, very easy to miss something (bullet points or Given/When/Then is imo easier to understand)
+- tickets are not well structured (missed the parentLegalGuardianFlag)
+- impossible to verify the implementation on backend (the appt/patient record update)
+- implementing stuff based on IOS
+
+- compose - too many comments = very weak code styling rules
+- compose - styling (legacy/xml/compose) getting just worse
+- compose in refactoring - too many PR comments slowing down implementation stuff
+
+
+- compose styling/texts - we should make it solid/clean sooner rather than later (missing args liks textAlign etc, maybe own modifier for customizable args ony ?)
+
+
 2021-07-19:
 
 What went well
